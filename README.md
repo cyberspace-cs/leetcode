@@ -295,3 +295,8 @@ python3 scripts/check_acm_lc_style.py
 - 解题代码为学习过程中的实现，**不保证是最优解**，欢迎自行优化。
 
 祝刷题顺利，早日上岸 🎉
+
+## 算法学习资源
+
+- [秋招算法学习仓库整理](./docs/AUTUMN-RECRUIT-ALGO-NOTES.md)：11 大模块、114 篇中文教学 Notebook。
+- [contest-tracker](https://github.com/cyberspace-cs/contest-tracker)：比赛雷达，实时追踪 Kaggle、Codeforces、ICPC、NOI 和黑客松。
